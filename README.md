@@ -1,4 +1,4 @@
-# Comprehensive Exams Preparation System
+# PhD Comprehensive Exams Preparation System
 
 > A self-built study companion for surviving the doctoral Leadership Comprehensive Exam — one paper at a time, on whatever device happens to be in your hand.
 
